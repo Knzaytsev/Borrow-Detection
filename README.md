@@ -1,7 +1,5 @@
 # BorrowingsGroupProject
-Repository contains notebook with research and implemented model for borrowings in Andic languages
-
-Linguistic borrowing is a phenomenon of the transfer of language structures (lexical, phonological, morphological, syntactic) from the donor language to the recipient language as a result of contact between multilingual communities. The donor of borrowed units can be a related and unrelated language; due to the Islamization of the Caucasus, the languages of the indigenous peoples of the Caucasus have a lot of borrowed lexicon related to religion (for example, most of the dictionaries of low-resource Andic languages we analyzed were borrowed from unrelated Arabic). In this work, a model for automatically detecting borrowings for Andic languages based on logistic regression and CountVectorizer for automatically detecting a borrowing word of a low-resource language is developed. The model is evaluated through classification quality metrics (F1-score) and word generation based on the borrowing pattern (perplexity).
+The repository contains the notebook with research and the implemented model for borrowings in Andic languages. The model based on logistic regression and Count Vectorizer. The model is evaluated through classification quality metrics (F1-score) and word generation based on the borrowing pattern (perplexity). The detailed research description and process of model tuning are described in the paper below.
 
 Participants:
 1. Zaitsev Konstantin
@@ -12,4 +10,5 @@ Curators:
 2. George Moroz
 
 The paper:
+
 https://drive.google.com/file/d/1K747vkuipyuCgpuYp7xgpBdc15HVNCC-/view
