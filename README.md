@@ -5,6 +5,3 @@ Participants:
 1. Zaitsev Konstantin
 2. Anzhelika Minchenko
 
-Curators:
-1. Oleg Serikov
-2. George Moroz
